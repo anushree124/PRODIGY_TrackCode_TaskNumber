@@ -5,3 +5,5 @@ Data set link: https://www.kaggle.com/c/house-prices-advanced-regression-techniq
 PRODIGY_ML_02.ipynb
 Data set link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
+PRODIGY_ML_03.ipynb
+Data set link: https://www.kaggle.com/c/dogs-vs-cats/data
